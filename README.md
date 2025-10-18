@@ -29,7 +29,6 @@ Core topics of my thesis include:
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) **Git**
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) **MySQL**
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) **Docker**
-- ![DockerHub](https://img.shields.io/badge/-DockerHub-1A82D0?style=flat&logo=docker&logoColor=white) **DockerHub**
 - ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) **VMware**
 
 ## 📚 Current Learning
