@@ -63,9 +63,6 @@ Core topics of my thesis include:
 ![Grok4](https://img.shields.io/badge/-Grok4-FF6B6B?style=flat&logo=x&logoColor=white)
 ![Gemini 2.5](https://img.shields.io/badge/-Gemini%202.5-4285F4?style=flat&logo=google&logoColor=white)
 
-## 📚 Current Learning
-- Designing and developing **AI Agents**, with a specific focus on **Reinforcement Learning** and **Adaptive Learning**.
-
 ## 📈 My Projects
 
 ### [Personal Loan Risk Control System](https://github.com/neflibata-feng/XuanDun)
