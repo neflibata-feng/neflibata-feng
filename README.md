@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a passionate back-end developer currently studying Software Engineering. I specialize in building efficient and reliable systems, with a focus on integrating **AI Agent** technologies for autonomous decision-making.
 
 ## 🚀 About Me
-- 👨‍💻 I'm currently a second-year Software Engineering student, focusing on **back-end development** and expanding my knowledge in the application and development of **AI Agents**.
+- 👨‍💻 I'm currently a Software Engineering student, focusing on **back-end development** and expanding my knowledge in the application and development of **AI Agents**.
 - 🖥️ My primary programming language is **Java**, and I am deeply involved in **Spring Boot** framework development. I am also self-learning **Python** to broaden my technical expertise.
 - 🔍 Currently, I am working on a **multi-data source integrated internet personal loan risk control system**, emphasizing **data security** and **risk management**.
 
