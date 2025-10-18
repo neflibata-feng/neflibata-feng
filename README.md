@@ -49,6 +49,8 @@ Core topics of my thesis include:
 ### ☁️ Cloud Platforms
 ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
 ![Huawei Cloud](https://img.shields.io/badge/-Huawei%20Cloud-C6001D?style=flat&logo=huawei&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+
 
 ---
 
