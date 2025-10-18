@@ -16,20 +16,50 @@ Core topics of my thesis include:
 - Adaptive learning mechanisms: How AI Agents adjust based on environmental changes
 
 ## 🛠️ Skills
-### 🌟 Programming Languages
-- **Java**
-- **C**
-- **Python** (Learning)
-- **SQL**
+### 🧭 Languages
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🛠️ Development Tools
-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white) **IntelliJ IDEA**
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) **VSCode**
-- ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) **Eclipse**
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) **Git**
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) **MySQL**
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) **Docker**
-- ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) **VMware**
+---
+
+### 🧰 Development Tools & IDEs
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-21D789?style=flat&logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00618A?style=flat&logo=mysql&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
+![Typora](https://img.shields.io/badge/-Typora-444444?style=flat&logo=markdown&logoColor=white)
+![SiYuan](https://img.shields.io/badge/-SiYuan-8A8A8A?style=flat&logo=notion&logoColor=white)
+
+---
+
+### ⚙️ Frameworks & Runtimes
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+---
+
+### ☁️ Cloud Platforms
+![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/-Huawei%20Cloud-C6001D?style=flat&logo=huawei&logoColor=white)
+
+---
+
+### 🤖 AI / Models
+![Deepseek R1](https://img.shields.io/badge/-Deepseek%20R1-0099CC?style=flat&logo=ai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-7C4DFF?style=flat&logo=githubcopilot&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/-GPT--4o-10A37F?style=flat&logo=openai&logoColor=white)
+![GPT-5](https://img.shields.io/badge/-GPT--5-00A67E?style=flat&logo=openai&logoColor=white)
+![GPT-5mini](https://img.shields.io/badge/-GPT--5mini-1ABC9C?style=flat&logo=openai&logoColor=white)
+![Grok4](https://img.shields.io/badge/-Grok4-FF6B6B?style=flat&logo=x&logoColor=white)
+![Gemini 2.5](https://img.shields.io/badge/-Gemini%202.5-4285F4?style=flat&logo=google&logoColor=white)
 
 ## 📚 Current Learning
 - Designing and developing **AI Agents**, with a specific focus on **Reinforcement Learning** and **Adaptive Learning**.
