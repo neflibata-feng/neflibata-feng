@@ -18,6 +18,7 @@ Core topics of my thesis include:
 ## 🛠️ Skills
 ### 🌟 Programming Languages
 - **Java**
+- **C**
 - **Python** (Learning)
 - **SQL**
 
