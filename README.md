@@ -59,9 +59,9 @@ Core topics of my thesis include:
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-7C4DFF?style=flat&logo=githubcopilot&logoColor=white)
 ![GPT-4o](https://img.shields.io/badge/-GPT--4o-10A37F?style=flat&logo=openai&logoColor=white)
 ![GPT-5](https://img.shields.io/badge/-GPT--5-00A67E?style=flat&logo=openai&logoColor=white)
-![GPT-5.1 codex](https://img.shields.io/badge/-GPT--5mini-1ABC9C?style=flat&logo=openai&logoColor=white)
+![GPT-5.2 codex](https://img.shields.io/badge/-GPT--5.2codex-1ABC9C?style=flat&logo=openai&logoColor=white)
 ![Grok4](https://img.shields.io/badge/-Grok4-FF6B6B?style=flat&logo=x&logoColor=white)
-![Gemini 3.0](https://img.shields.io/badge/-Gemini%202.5-4285F4?style=flat&logo=google&logoColor=white)
+![Gemini 3.0pro](https://img.shields.io/badge/-Gemini%203.0pro-4285F4?style=flat&logo=google&logoColor=white)
 
 ## 📈 My Projects
 
