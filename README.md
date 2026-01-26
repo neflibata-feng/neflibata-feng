@@ -65,7 +65,7 @@ Core topics of my thesis include:
 
 ## 📈 My Projects
 
-### [Personal Loan Risk Control System](https://github.com/neflibata-feng/XuanDun)
+### [Personal Loan Risk Control System](https://github.com/neflibata-feng/Zongshe)
 This is a full-process risk control system I am developing, integrating multiple data sources to support the entire lifecycle of online personal loans. The focus is on ensuring system security and operational efficiency.
 
 ## 🌐 Get in Touch
