@@ -98,7 +98,7 @@
 
 ## 📖 我的个人博客
 
-### [If you bloom, the breeze will come naturally.](https://www.neflibata-feng.top)
+### [If you bloom, the breeze will come naturally.](https://www.neflibatafeng.top)
 如果有时间，我会在我的个人博客上分享一些技术文章和项目经验，欢迎大家访问！
 
 ---
