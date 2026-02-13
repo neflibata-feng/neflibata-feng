@@ -57,12 +57,6 @@
 
 ---
 
-> 关于其他的技术栈：
-> - **MySQL、Redis**“勉强”会用，但不是特别精通，有时间要好好打磨一下
-> - 前端的东西只会皮毛，主要是借助coding智能体完成了一些基于**Astro、vue、React**框架的个人的serverless小项目，就当练手，也不想深入
-> - 运维的东西，比如**DevOps相关的、Linux相关的、Nginx相关的、WAF相关的**，倒是随便上手就能做，但是理论嘛，一窍不通，还是要系统地学习一下
-> - 安卓开发（**kotlin**）曾经做过，“小白”一个，不喜欢
-> - **我还在持续学习和探索更多技术，AI时代，广泛涉猎+核心精通，才是程序员的核心竞争力！**
 ## 📚 我的科研方向
 
 我的科研方向聚焦于 **AI Agent**，探索如何设计并开发具备**高度自主性、错误自愈能力及复杂多模态解析能力的 AGI 原型**。研究重点在于应用**多智能体协同与博弈**、**动态知识整合**和**主动纠错与自愈工程**等前沿技术来引导智能体跨越知识幻觉。
@@ -76,23 +70,6 @@
 ### [个贷风控系统](https://github.com/neflibata-feng/Zongshe)
 这是我深度参与的一个校内学分项目——个人贷款全流程风控系统，通过集成多维数据源，支持在线个人贷款的全生命周期管理。项目的核心目标是确保系统的安全性与运营效率。
 > **因为一些原因，已关闭该项目的公开仓库，仅保留官网模板。**
-
-### [Iflytek astron-agent](https://github.com/neflibata-feng/astron-agent)
-这是我参与的一个开源项目，来自科大讯飞公司，旨在打造**企业级的Agentic Workflow平台**。
-
-### [MyArxiv-Agent](https://github.com/neflibata-feng/MyArxiv-Agent)
-这是我正在开发的一款开源科研智能体及其工作平台，目前已完成业务部分，**DeepResearch Agent这一核心框架正在开发中**。该智能体旨在帮助科研人员和学生高效地进行学术论文的搜索、整理与分析，提升科研效率。
-> 正在攻克GAIA基准测试，争取实现Level-3级别的科研智能体，预计2026年3月左右开源，敬请期待！
-
-### [TraceShadow（No-link）]()
-这是溯影系统，因为商业原因，目前没有开源版本和相关计划，详细内容可联系我了解可透露信息。
-
----
-
-## 📈 我的个人团队
-
-### [XuanDun](https://www.uestcgal.top)
-**玄盾团队**是我所在的一个技术团队，但是关注的方向比较有趣，专注于**AI Agent的安全护栏**的研发与创新，这将成为未来智能体和网络安全发展的重要方向。
 
 ---
 
@@ -165,13 +142,6 @@ Welcome to my GitHub! I'm a **software engineer** currently studying at **Univer
 
 ---
 
-> Other parts of my stack:
-> - I can "barely" use **MySQL** and **Redis**, but I'm not very proficient yet—I plan to polish these up.
-> - I only know the basics of frontend. I mainly rely on coding agents to build some personal serverless side projects based on **Astro**, **Vue**, and **React**—just for practice, not going deep.
-> - For ops-related work like **DevOps**, **Linux**, **Nginx**, and **WAF**, I can jump in and get things done, but my theoretical foundation is weak—I still need systematic learning.
-> - I once did Android development (**Kotlin**)—I'm a beginner and don't really enjoy it.
-> - **I'm continuously learning and exploring more technologies. In the AI era, broad exploration + deep mastery of a core area is a key competitive advantage for developers!**
-
 ## 📚 Research Interests
 
 My research focuses on **AI Agents**, exploring how to design and develop **AGI prototypes** with **high autonomy**, **error self-recovery**, and **advanced multimodal understanding**. The main topics include **multi-agent collaboration and game-theoretic interactions**, **dynamic knowledge integration**, and **proactive error correction and self-healing engineering**, aiming to help agents overcome knowledge hallucinations.
@@ -185,23 +155,6 @@ My research focuses on **AI Agents**, exploring how to design and develop **AGI 
 ### [Personal Loan Risk Control System](https://github.com/neflibata-feng/Zongshe)
 This is a university credit project I deeply participated in—an end-to-end risk control system for personal loans. It integrates multi-dimensional data sources and supports full lifecycle management of online personal loans. The core goal is to ensure system security and operational efficiency.
 > **Due to certain reasons, the public repository has been closed; only the official website template is kept.**
-
-### [Iflytek astron-agent](https://github.com/neflibata-feng/astron-agent)
-This is an open-source project I contributed to, from iFLYTEK, aiming to build an **enterprise-grade Agentic Workflow platform**.
-
-### [MyArxiv-Agent](https://github.com/neflibata-feng/MyArxiv-Agent)
-An open-source research agent and its workflow platform that I'm currently developing. The business features are largely completed, and the core framework—**DeepResearch Agent**—is under active development. It aims to help researchers and students efficiently search, organize, and analyze academic papers.
-> I'm currently working on the GAIA benchmark and aiming for a Level-3 research agent. Planned open-source release is around March 2026—stay tuned!
-
-### [TraceShadow (No-link)]()
-TraceShadow is a system that isn't planned for open-source due to commercial reasons. Feel free to contact me for details I can share.
-
----
-
-## 📈 My Team
-
-### [XuanDun](https://www.uestcgal.top)
-**XuanDun** is the technical team I'm part of. We focus on an interesting direction: building **security guardrails for AI Agents**, which is likely to become an important area for the future of agents and cybersecurity.
 
 ---
 
