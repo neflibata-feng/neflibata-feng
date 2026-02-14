@@ -160,7 +160,7 @@ This is a university credit project I deeply participated in—an end-to-end ris
 
 ## 📖 Blog
 
-### [If you bloom, the breeze will come naturally.](https://www.neflibata-feng.top)
+### [If you bloom, the breeze will come naturally.](https://www.neflibatafeng.top)
 When I have time, I share technical articles and project experience on my personal blog. You're welcome to visit!
 
 ---
